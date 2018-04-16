@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">ForesterApp</string>
+    <string name="title_activity_page_two">PageTwoActivity</string>
+    <string name="title_activity_page_three">PageThreeActivity</string>
+    <string name = "leaf_shape">Select Leaf Shape</string>
+    <string name = "petal_number">Select Number of Petals</string>
+    <string name = "petal_colour">Select Petal Colour</string>a
+    <string name = "petal_separate">Are the Petals Separate?</string>
+    <string name = "fruit_type">Select Fruit Type</string>
+    <string name = "leaflet_simple">Are There Leaflets or Simple Leaves?</string>
+    <string name = "leaf_length">Select the Leaf Length (mm)</string>
+
+    <string-array name="leafShapes">
+        <item>N/A</item>
+        <item>Arrow-Shaped</item>
+        <item>Toothed</item>
+        <item>Oval-Shaped</item>
+        <item>Lance-Shaped</item>
+        <item>Elipse-Shaped</item>
+        <item>Needle</item>
+    </string-array>
+
+    <string-array name="petalNumbers">
+        <item>N/A</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="petalColours">
+        <item>N/A</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Orange</item>
+    </string-array>
+
+    <string-array name ="petalSeparate">
+        <item>N/A</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name ="fruitType">
+        <item>N/A</item>
+        <item>Dry</item>
+        <item>Berry</item>
+        <item>Capsule</item>
+    </string-array>
+
+    <string-array name ="leafletSimple">
+        <item>N/A</item>
+        <item>Leaflet</item>
+        <item>Simple</item>
+    </string-array>
+
+    <string-array name ="leafLength">
+        <item>N/A</item>
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+    <string name="title_activity_results_page">resultsPage</string>
+
+
+</resources>
